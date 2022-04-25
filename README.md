@@ -1,13 +1,13 @@
 ### Hi there 👋
 
-<!--
+
 **icpereiradoprado/icpereiradoprado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working Requestia Software Ltda.
 - 🌱 I’m currently learning CSharp, ASP.NET Core, Umbraco, SQL, HTML5, CSS3
--->
+
 
 <div align="center">
 <a href="https://github.com/icpereiradoprado">
