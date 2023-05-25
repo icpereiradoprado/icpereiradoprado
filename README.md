@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working Requestia Software Ltda.
-- 🌱 I’m currently learning CSharp, ASP.NET Core, Umbraco, SQL, HTML5, CSS3
+- 🌱 I’m currently learning CSharp, ASP.NET Core, Umbraco, SQL, HTML5, CSS3, EXT JS and JavaScript
 
 
 <!--<div align="center">
